@@ -9,6 +9,9 @@ DerivedData/
 .swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
 .netrc
 
+# ???
+default.profraw
+
 # Inputs
 inputs/*
 !inputs/.gitkeep
