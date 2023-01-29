@@ -1,3 +1,4 @@
+# Swift default
 .DS_Store
 /.build
 /Packages
@@ -7,3 +8,7 @@ DerivedData/
 .swiftpm/config/registries.json
 .swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
 .netrc
+
+# Inputs
+inputs/*
+!inputs/.gitkeep
