@@ -1,3 +1,3 @@
-# aoc15
+# Advent of code 2015 in Swift
 
-A description of this package.
+Learning Swift for fun and profit.
