@@ -6,7 +6,7 @@
         {
             "label": "build",
             "type": "shell",
-            "command": "swift run"
+            "command": "echo \"$(pwd)/inputs/2015\""
         },
         {
             "label": "test",
